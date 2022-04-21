@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Default suite">
+  <test  name="Default test">
+    <classes>
+      <class name="testing.com.SeleneiumB3.TestngTest"/>
+       <class name="testing.com.SeleneiumB3.TestngTest2"/>
+    </classes>
+  </test> <!-- Default test -->
+   <test  name="Default test1">
+    <classes>
+      <class name="testing.com.SeleneiumB3.TestngTest"/>
+       <class name="testing.com.SeleneiumB3.TestngTest2"/>
+    </classes>
+  </test> 
+</suite> <!-- Default suite -->
+
+<suite  name="Default suite">
+  <test  name="Default test">
+    <classes>
+      <class name="testing.com.SeleneiumB3.TestngTest"/>
+       <class name="testing.com.SeleneiumB3.TestngTest2"/>
+    </classes>
+  </test> <!-- Default test -->
+   <test  name="Default test1">
+    <classes>
+      <class name="testing.com.SeleneiumB3.TestngTest"/>
+       <class name="testing.com.SeleneiumB3.TestngTest2"/>
+    </classes>
+  </test> 
+</suite>

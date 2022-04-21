@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Default suite">
+
+  <test  name="Default test">
+ <groups>		
+   <run>		
+    <include name="regression" />		
+   </run>		
+  </groups>	
+    <classes>
+      
+       <class name="testing.com.SeleneiumB3.GroupsDemo"/>
+    </classes>
+  </test> <!-- Default test -->
+  
+</suite> <!-- Default suite -->
+
+
+
